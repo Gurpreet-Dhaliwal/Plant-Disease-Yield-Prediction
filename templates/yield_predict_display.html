@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block body %}
+{% include "navbar.html" %}
+<title>Farming Guru</title>
+<section class="hero is-primary is-bold is-small">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div id="settings" class="settings-box">
+        <div class="settings-area">    
+
+          <div class="field">
+            <p class="control has-icons-left">
+
+              <table>
+          <thead>
+            <th>crop name </th>
+            <th>yield in Kg / acre</th>
+          </thead>
+
+          <tbody>
+              {% for item in list %}
+                  <tr>
+                    <td>{{ item[0] }}</td>
+                    <td></td>
+                    <td>{{ item[1] }}</td>
+                  </tr>
+              {% endfor %}
+
+        </tbody>
+        </table>
+            </p>
+          </div>
+          <br>
+          <br>
+          <i><a id="feedback" class="feedback"></a></i>
+        </div>
+      </div>    
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="../static/js/scripts.js"></script>
+{% endblock %}

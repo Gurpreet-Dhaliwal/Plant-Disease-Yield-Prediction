@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block body %}
+{% include "navbar.html" %}
+<title>Farming Guru</title>
+<section class="hero is-primary is-bold is-small">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div id="settings" class="settings-box">
+        <div class="settings-area">    
+          <h1 class="title">Choose image</h1>
+          <div class="field">
+            <p class="control has-icons-left">
+              <form action="/disease" method="POST"  enctype = "multipart/form-data">
+               <label >Select image:</label>
+            <input type="file" id="file" name="file" accept="image/*">
+            <input type="submit">
+
+            </form>
+            </p>
+          </div>
+          <br>
+          <br>
+          <i><a id="feedback" class="feedback"></a></i>
+        </div>
+      </div>    
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="../static/js/scripts.js"></script>
+{% endblock %}

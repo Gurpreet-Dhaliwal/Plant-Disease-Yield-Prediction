@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block body %}
+{% include "navbar.html" %}
+<title>Farming Guru</title>
+<section class="hero is-primary is-bold is-small">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div id="settings" class="settings-box">
+        <div class="settings-area">    
+
+          <div class="field">
+            <p class="control has-icons-left">
+              <form action="/yield" method="POST"  enctype = "multipart/form-data">
+               <label >Select state:</label>
+            <select name="state" id="state" class="form-control">
+              <option value="">None</option>
+
+                <option value="Bihar">Bihar</option>
+                <option value="Himachal Pradesh">Himachal Pradesh</option>
+               <option value="Kerala">Kerala</option>
+                 <option value="Punjab">Punjab</option>
+                 <option value="West Bengal">West Bengal</option>
+                  <option value="Gujarat">Gujarat</option>
+                 <option value="Uttar Pradesh">Uttar Pradesh</option>
+               <option value="Tamil Nadu">Tamil Nadu</option>
+
+                </select>
+            <input type="submit">
+
+            </form>
+            </p>
+          </div>
+          <br>
+          <br>
+          <i><a id="feedback" class="feedback"></a></i>
+        </div>
+      </div>    
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="../static/js/scripts.js"></script>
+{% endblock %}

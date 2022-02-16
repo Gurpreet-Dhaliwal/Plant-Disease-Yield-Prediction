@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block body %}
+{% include "navbar.html" %}
+<title>Farming Guru</title>
+<section class="hero is-primary is-bold is-small">
+  <div class="hero-body">
+
+       <div class="container-fluid">
+    <div class="well">
+    <div class="row">
+      <div class="col-md-12">
+          <h1 class="head text-center">Farming Guru</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="well"  id="img-well">
+            <img class="img-rounded test-image center-block"  src="{{ plant_img }}" alt="{{ plant_img }}" width="500px" style="width:500px;height:300px;"> </img>
+
+        <p class="text-center" id="image-description">{{ plant_name }}</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <h3 >Diseases:</h3>
+          <ul>
+			{% for key,value in dictionary.items() %}
+            	<li><strong>{{ value }}</strong> </li>
+            {% endfor %}
+          </ul>
+          <h3>Treatment:</h3>
+          <p id="quote">{{ treatment_technique }}</p>
+      </div>
+      </div>
+    </div>
+  </div>
+
+    </div>
+
+</section>
+{% endblock %}
+{% block scripts %}
+<script src="../static/js/scripts.js"></script>
+{% endblock %}

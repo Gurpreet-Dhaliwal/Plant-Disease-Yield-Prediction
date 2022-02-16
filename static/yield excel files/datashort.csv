@@ -1,0 +1,256 @@
+,State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,Rainfall
+203,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Arhar/Tur,21400.0,2600.0,662.7
+204,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Bajra,1400.0,500.0,662.7
+205,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Castor seed,1000.0,100.0,662.7
+206,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Cotton(lint),7300.0,9400.0,662.7
+207,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Dry chillies,3700.0,7100.0,662.7
+208,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Groundnut,650800.0,228400.0,662.7
+209,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Horse-gram,3300.0,1000.0,662.7
+210,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Jowar,10100.0,10200.0,662.7
+211,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Korra,2200.0,700.0,662.7
+212,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Maize,2800.0,4900.0,662.7
+213,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Moong(Green Gram),1300.0,500.0,662.7
+214,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Other Kharif pulses,800.0,100.0,662.7
+215,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Ragi,6700.0,11800.0,662.7
+216,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Rice,35600.0,75400.0,662.7
+217,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Sugarcane,700.0,72900.0,662.7
+218,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Sunflower,35900.0,11100.0,662.7
+219,Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Tobacco,200.0,200.0,662.7
+220,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Dry chillies,100.0,100.0,100.85
+221,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Gram,28000.0,14800.0,100.85
+222,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Groundnut,20200.0,21700.0,100.85
+223,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Horse-gram,600.0,200.0,100.85
+224,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Jowar,18800.0,9400.0,100.85
+225,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Korra,100.0,100.0,100.85
+226,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Maize,600.0,2400.0,100.85
+227,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Ragi,600.0,1000.0,100.85
+228,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Rice,18000.0,37300.0,100.85
+229,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Sunflower,30100.0,11100.0,100.85
+230,Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Wheat,300.0,200.0,100.85
+231,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Arhar/Tur,27400.0,9100.0,858.0
+232,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Bajra,2600.0,1900.0,858.0
+233,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Castor seed,3200.0,1000.0,858.0
+234,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Cotton(lint),14000.0,12900.0,858.0
+235,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Dry chillies,4000.0,10000.0,858.0
+236,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Groundnut,755200.0,867800.0,858.0
+237,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Horse-gram,2300.0,900.0,858.0
+238,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Jowar,3700.0,5800.0,858.0
+239,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Korra,4600.0,3400.0,858.0
+240,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Maize,3300.0,6700.0,858.0
+241,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Moong(Green Gram),2100.0,1300.0,858.0
+242,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Other Kharif pulses,2000.0,300.0,858.0
+243,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Ragi,7000.0,14900.0,858.0
+244,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Rice,38300.0,96800.0,858.0
+245,Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Sunflower,21300.0,12200.0,858.0
+246,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Dry chillies,200.0,200.0,177.75
+247,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Gram,26200.0,25900.0,177.75
+248,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Groundnut,25900.0,35800.0,177.75
+249,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Horse-gram,700.0,500.0,177.75
+250,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Jowar,14800.0,22100.0,177.75
+251,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Maize,300.0,1600.0,177.75
+252,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Ragi,700.0,1200.0,177.75
+253,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Rice,26600.0,63900.0,177.75
+254,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Sunflower,13500.0,3300.0,177.75
+255,Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Wheat,400.0,200.0,177.75
+256,Andhra Pradesh,ANANTAPUR,1998,Whole Year ,Sugarcane,700.0,65900.0,1310.8
+257,Andhra Pradesh,ANANTAPUR,1998,Whole Year ,Tobacco,100.0,100.0,1310.8
+258,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Bajra,1635.0,889.0,554.7
+259,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Castor seed,1880.0,355.0,554.7
+260,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Cotton(lint),9453.0,10510.0,554.7
+261,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Groundnut,694865.0,249457.0,554.7
+262,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Horse-gram,1762.0,495.0,554.7
+263,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Jowar,11131.0,14582.0,554.7
+264,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Maize,3358.0,9540.0,554.7
+265,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Masoor,23117.0,3861.0,554.7
+266,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Moong(Green Gram),1546.0,1098.0,554.7
+267,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Ragi,6215.0,11467.0,554.7
+268,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Rice,37991.0,105082.0,554.7
+269,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Sesamum,8.0,2.0,554.7
+270,Andhra Pradesh,ANANTAPUR,1999,Kharif     ,Urad,4.0,2.0,554.7
+271,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Bajra,99.0,54.0,92.5
+272,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Gram,26835.0,9365.0,92.5
+273,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Groundnut,21785.0,25358.0,92.5
+274,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Horse-gram,1071.0,327.0,92.5
+275,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Jowar,21487.0,30576.0,92.5
+276,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Linseed,12.0,1.0,92.5
+277,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Maize,455.0,2203.0,92.5
+278,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Masoor,98.0,10.0,92.5
+279,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Moong(Green Gram),1.0,1.0,92.5
+280,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Ragi,734.0,1180.0,92.5
+281,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Rice,20258.0,45669.0,92.5
+282,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Safflower,881.0,145.0,92.5
+283,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Sesamum,10.0,2.0,92.5
+284,Andhra Pradesh,ANANTAPUR,1999,Rabi       ,Wheat,439.0,294.0,92.5
+285,Andhra Pradesh,ANANTAPUR,1999,Whole Year ,Dry chillies,5199.0,5759.0,825.1
+286,Andhra Pradesh,ANANTAPUR,1999,Whole Year ,Onion,1770.0,32364.0,825.1
+287,Andhra Pradesh,ANANTAPUR,1999,Whole Year ,Sugarcane,884.0,83126.0,825.1
+288,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Arhar/Tur,30693.0,7888.0,768.9
+289,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Bajra,2477.0,1449.0,768.9
+290,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Castor seed,9315.0,2831.0,768.9
+291,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Cotton(lint),12025.0,16128.0,768.9
+292,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Dry chillies,3755.0,10146.0,768.9
+293,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Gram,21.0,14.0,768.9
+294,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Groundnut,791559.0,884963.0,768.9
+295,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Horse-gram,601.0,215.0,768.9
+296,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Jowar,5071.0,14351.0,768.9
+297,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Korra,1626.0,1143.0,768.9
+298,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Maize,3475.0,9049.0,768.9
+299,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Moong(Green Gram),1744.0,774.0,768.9
+300,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Onion,1103.0,15470.0,768.9
+301,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Other Kharif pulses,3167.0,559.0,768.9
+302,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,other misc. pulses,1292.0,214.0,768.9
+303,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Ragi,6613.0,16923.0,768.9
+304,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Rice,39905.0,117680.0,768.9
+305,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Samai,21.0,5.0,768.9
+306,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Sesamum,5.0,1.0,768.9
+307,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Small millets,1647.0,1148.0,768.9
+308,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Sunflower,30606.0,24590.0,768.9
+309,Andhra Pradesh,ANANTAPUR,2000,Kharif     ,Urad,135.0,8.0,768.9
+310,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Arhar/Tur,35.0,9.0,67.55
+311,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Bajra,317.0,185.0,67.55
+312,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Dry chillies,71.0,81.0,67.55
+313,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Gram,33858.0,22685.0,67.55
+314,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Groundnut,23048.0,23832.0,67.55
+315,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Horse-gram,377.0,80.0,67.55
+316,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Jowar,15242.0,16980.0,67.55
+317,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Korra,96.0,67.0,67.55
+318,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Linseed,8.0,2.0,67.55
+319,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Maize,399.0,2148.0,67.55
+320,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Onion,482.0,11514.0,67.55
+321,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Ragi,909.0,1312.0,67.55
+322,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Rice,22099.0,57236.0,67.55
+323,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Safflower,703.0,129.0,67.55
+324,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Small millets,96.0,67.0,67.55
+325,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Urad,363.0,292.0,67.55
+326,Andhra Pradesh,ANANTAPUR,2000,Rabi       ,Wheat,520.0,297.0,67.55
+327,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Arecanut,252.0,696.0,992.3
+328,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Banana,769.0,11693.0,992.3
+329,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Coconut ,908.0,3896970.0,992.3
+330,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Coriander,8953.0,2266.0,992.3
+331,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Potato,4.0,34.0,992.3
+332,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Sugarcane,284.0,25395.0,992.3
+333,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Sweet potato,28.0,379.0,992.3
+334,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Tobacco,89.0,114.0,992.3
+335,Andhra Pradesh,ANANTAPUR,2000,Whole Year ,Turmeric,39.0,272.0,992.3
+336,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Arhar/Tur,27942.0,7628.0,598.1
+337,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Bajra,1595.0,526.0,598.1
+338,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Castor seed,3191.0,900.0,598.1
+339,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Cotton(lint),8552.0,9055.0,598.1
+340,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Dry chillies,3765.0,7127.0,598.1
+341,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Gram,16.0,17.0,598.1
+342,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Groundnut,758700.0,333828.0,598.1
+343,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Horse-gram,649.0,60.0,598.1
+344,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Jowar,3900.0,6720.0,598.1
+345,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Korra,1434.0,627.0,598.1
+346,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Maize,2667.0,7129.0,598.1
+347,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Moong(Green Gram),1511.0,730.0,598.1
+348,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Onion,1165.0,19232.0,598.1
+349,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Other Kharif pulses,2496.0,324.0,598.1
+350,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Ragi,5124.0,12405.0,598.1
+351,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Rice,32878.0,95609.0,598.1
+352,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Small millets,1434.0,627.0,598.1
+353,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Sunflower,51610.0,33580.0,598.1
+354,Andhra Pradesh,ANANTAPUR,2001,Kharif     ,Urad,487.0,176.0,598.1
+355,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Arhar/Tur,5.0,1.0,143.2
+356,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Bajra,27.0,9.0,143.2
+357,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Dry chillies,108.0,168.0,143.2
+358,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Gram,47894.0,50145.0,143.2
+359,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Groundnut,18773.0,29192.0,143.2
+360,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Horse-gram,417.0,226.0,143.2
+361,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Jowar,15170.0,17446.0,143.2
+362,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Linseed,5.0,1.0,143.2
+363,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Maize,447.0,2893.0,143.2
+364,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Moong(Green Gram),40.0,12.0,143.2
+365,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Onion,380.0,8465.0,143.2
+366,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Other  Rabi pulses,1.0,1.0,143.2
+367,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Ragi,544.0,725.0,143.2
+368,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Rice,38119.0,108906.0,143.2
+369,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Safflower,3768.0,528.0,143.2
+370,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Sesamum,2.0,1.0,143.2
+371,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Urad,127.0,86.0,143.2
+372,Andhra Pradesh,ANANTAPUR,2001,Rabi       ,Wheat,307.0,213.0,143.2
+373,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Arecanut,257.0,430.0,1009.3
+374,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Banana,1582.0,462.0,1009.3
+375,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Coconut ,851.0,3053700.0,1009.3
+376,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Coriander,4741.0,1119.0,1009.3
+377,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Sugarcane,490.0,42470.0,1009.3
+378,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Sweet potato,31.0,411.0,1009.3
+379,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Tobacco,111.0,111.0,1009.3
+380,Andhra Pradesh,ANANTAPUR,2001,Whole Year ,Turmeric,8.0,40.0,1009.3
+381,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Arhar/Tur,33454.0,6557.0,435.0
+382,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Bajra,1925.0,581.0,435.0
+383,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Castor seed,2050.0,416.0,435.0
+384,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Cotton(lint),7638.0,7144.0,435.0
+385,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Dry chillies,2737.0,6128.0,435.0
+386,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Groundnut,732262.0,259953.0,435.0
+387,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Horse-gram,947.0,140.0,435.0
+388,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Jowar,2906.0,4545.0,435.0
+389,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Korra,1000.0,100.0,435.0
+390,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Maize,3541.0,3431.0,435.0
+391,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Moong(Green Gram),1150.0,174.0,435.0
+392,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Onion,776.0,8432.0,435.0
+393,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Other Kharif pulses,490.0,47.0,435.0
+394,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Ragi,5157.0,12140.0,435.0
+395,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Rice,29066.0,66329.0,435.0
+396,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Small millets,919.0,180.0,435.0
+397,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Soyabean,51.0,0.0,435.0
+398,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Sunflower,60319.0,22149.0,435.0
+399,Andhra Pradesh,ANANTAPUR,2002,Kharif     ,Urad,32.0,2.0,435.0
+400,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Bajra,129.0,39.0,95.5
+401,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Dry chillies,83.0,161.0,95.5
+402,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Gram,54264.0,20186.0,95.5
+403,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Groundnut,17529.0,18651.0,95.5
+404,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Horse-gram,1859.0,688.0,95.5
+405,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Jowar,12676.0,11497.0,95.5
+406,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Linseed,8.0,2.0,95.5
+407,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Maize,1288.0,8933.0,95.5
+408,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Moong(Green Gram),4.0,1.0,95.5
+409,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Onion,401.0,7192.0,95.5
+410,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Ragi,417.0,517.0,95.5
+411,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Rice,10960.0,20462.0,95.5
+412,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Safflower,2594.0,340.0,95.5
+413,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Small millets,10.0,2.0,95.5
+414,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Urad,408.0,236.0,95.5
+415,Andhra Pradesh,ANANTAPUR,2002,Rabi       ,Wheat,362.0,333.0,95.5
+416,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Arecanut,263.0,379.0,703.2
+417,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Banana,19.0,1006.0,703.2
+418,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Beans & Mutter(Vegetable),1.0,5.0,703.2
+419,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Bhindi,126.0,938.0,703.2
+420,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Brinjal,1026.0,10162.0,703.2
+421,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Citrus Fruit,788.0,4000.0,703.2
+422,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Coconut ,869.0,3691149.0,703.2
+423,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Coriander,3914.0,481.0,703.2
+424,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Cucumber,18.0,0.0,703.2
+425,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Grapes,111.0,2075.0,703.2
+426,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Mango,3968.0,26176.0,703.2
+427,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Orange,13767.0,112541.0,703.2
+428,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,other fibres,132.0,0.0,703.2
+429,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Other Fresh Fruits,2418.0,1552.0,703.2
+430,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Other Vegetables,1767.0,0.0,703.2
+431,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Papaya,1544.0,201409.0,703.2
+432,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Pome Fruit,1207.0,62789.0,703.2
+433,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Potato,2.0,17.0,703.2
+434,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Sugarcane,329.0,22481.0,703.2
+435,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Sweet potato,50.0,540.0,703.2
+436,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Tobacco,51.0,90.0,703.2
+437,Andhra Pradesh,ANANTAPUR,2002,Whole Year ,Tomato,3356.0,16627.0,703.2
+438,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Arhar/Tur,41178.0,6959.0,634.1
+439,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Bajra,2280.0,378.0,634.1
+440,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Castor seed,1927.0,805.0,634.1
+441,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Cotton(lint),4212.0,4262.0,634.1
+442,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Dry chillies,2920.0,10702.0,634.1
+443,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Groundnut,670935.0,187862.0,634.1
+444,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Horse-gram,492.0,54.0,634.1
+445,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Jowar,12487.0,30830.0,634.1
+446,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Korra,1245.0,229.0,634.1
+447,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Maize,6246.0,10718.0,634.1
+448,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Moong(Green Gram),1216.0,662.0,634.1
+449,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Onion,846.0,13250.0,634.1
+450,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Other Kharif pulses,340.0,15.0,634.1
+451,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Ragi,3353.0,3547.0,634.1
+452,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Rice,17515.0,44891.0,634.1
+453,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Samai,245.0,83.0,634.1
+454,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Small millets,1420.0,299.0,634.1
+455,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Soyabean,16.0,18.0,634.1
+456,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Sunflower,74525.0,29572.0,634.1
+457,Andhra Pradesh,ANANTAPUR,2003,Kharif     ,Urad,82.0,51.0,634.1
